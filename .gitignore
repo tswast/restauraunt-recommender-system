@@ -29,3 +29,7 @@ pip-log.txt
 # Data files
 data
 
+# Editor and OS files
+*.swp
+.DS_store
+
