@@ -1,0 +1,10 @@
+
+Notes: regular: too big for bfgs
+Filter by only double reviews: not out of memory, but not very fast (per
+iteration), either!
+
+To get biz list with > 1 review
+r.sum(axis=1) > 1?
+To get user list with > 1 review (or was it 0?)
+r.sum(axis=0) > 1?
+
